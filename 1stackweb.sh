@@ -1,5 +1,4 @@
 #!/bin/bash
-rm -rf encweb
-git clone https://github.com/anonymus152/encweb.git
-chmod +x encweb/runweb.sh.x
-./encweb/runweb.sh.x
+curl -OL https://raw.githubusercontent.com/anonymus152/encsh/main/runweb.x
+chmod +x runweb.x
+./runweb.x

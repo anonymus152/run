@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -rf enc
-git clone https://github.com/anonymus152/enc.git
-chmod +x enc/run.sh.x
-./enc/run.sh.x
+rm -rf enctool
+git clone https://github.com/anonymus152/enctool.git
+chmod +x enctool/toolenc.sh.x
+./enctool/toolenc.sh.x

@@ -1,4 +1,4 @@
 #!/bin/bash
-curl -OL https://raw.githubusercontent.com/anonymus152/enctool/main/runtool.sh.x
-chmod +x runtool.sh.x
-./runtool.sh.x
+curl -OL https://raw.githubusercontent.com/anonymus152/encsh/main/runtool.x
+chmod +x runtool.x
+./runtool.x
